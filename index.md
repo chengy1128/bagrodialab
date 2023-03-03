@@ -8,7 +8,7 @@ title: Home
 
 {%
   include link.html
-<!--   type="github" -->
+  type="github"
   icon=""
   text="See the template on GitHub"
   link="greenelab/lab-website-template"
