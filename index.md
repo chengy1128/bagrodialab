@@ -2,14 +2,13 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Guiding patients on a path that is best for them
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+[Dr. Aditya Bagrodia](https://https://providers.ucsd.edu/details/1730310665/urology-cancer/)  is a board-certified urologist in [University of California, San Diego](https://https://health.ucsd.edu/Pages/default.aspx/), who specializes in detecting, treating and preventing genitourinary cancer. He is experienced in surgical and nonsurgical treatments for all urologic malignancies, including adrenal, upper tract, renal, bladder, prostate, penile and testicular cancers. He also has expertise in minimally invasive approaches to urologic surgery. 
 
 {%
   include link.html
-  type="github"
+<!--   type="github" -->
   icon=""
   text="See the template on GitHub"
   link="greenelab/lab-website-template"
