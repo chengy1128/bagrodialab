@@ -4,24 +4,24 @@ title: Home
 
 # Guiding patients on a path that is best for them
 
-[Dr. Aditya Bagrodia](https://https://providers.ucsd.edu/details/1730310665/urology-cancer/)  is a board-certified urologist in [University of California, San Diego](https://https://health.ucsd.edu/Pages/default.aspx/), who specializes in detecting, treating and preventing genitourinary cancer. He is experienced in surgical and nonsurgical treatments for all urologic malignancies, including adrenal, upper tract, renal, bladder, prostate, penile and testicular cancers. He also has expertise in minimally invasive approaches to urologic surgery. 
+[Dr. Aditya Bagrodia](https://providers.ucsd.edu/details/1730310665/urology-cancer/)  is a board-certified urologist in [University of California, San Diego](https://health.ucsd.edu/Pages/default.aspx/), who specializes in detecting, treating and preventing genitourinary cancer. He is experienced in surgical and nonsurgical treatments for all urologic malignancies, including adrenal, upper tract, renal, bladder, prostate, penile and testicular cancers. He also has expertise in minimally invasive approaches to urologic surgery. 
 
 {%
   include link.html
-  type="github"
+  type="Link"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="Twitter"
+  link="https://twitter.com/adityabagrodia?lang=en"
   style="button"
 %}
-{%
+<!-- {%
   include link.html
   type="docs"
   icon=""
   text="See the documentation"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
-%}
+%} -->
 {:.center}
 
 {% include section.html full=true %}
